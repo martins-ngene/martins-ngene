@@ -9,7 +9,7 @@
 
 - 💬 Looking to know more about how client-side applications work and their interaction with APIs? **Let's chat.**
 
-- 📫 You can reach me with here **martinsngene@gmail.com**
+- 📫 You can reach me here **martinsngene9@gmail.com**
 
 <h3 align="left">Find me online:</h3>
 <p align="left">
