@@ -7,7 +7,7 @@
 
 - 📝 You can check out some of my articles here [https://dev.to/martins_ngene](https://dev.to/martins_ngene)
 
-- 💬 Looking to know more about how client-side applications work and their interaction with APIs? **Let's chat.**
+- 💬 Looking to onboard an Engineer? **Let's chat.**
 
 - 📫 You can reach me here **martinsngene9@gmail.com**
 
