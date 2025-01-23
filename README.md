@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Martins Ngene</h1>
 <h3 align="center">A Software Engineer, I solve complex software engineering problems for the greater good</h3>
 
-- 🔭 I’m currently building on the Solana Blockchain [Solkens](https://github.com/martins-ngene/solkens)
+# - 🔭 I’m currently building on the Solana Blockchain [Solkens](https://github.com/martins-ngene/solkens)
 
-- 🌱 With a deep interest in Solana, I have decided to learn **Rust**
+# - 🌱 With a deep interest in Solana, I have decided to learn **Rust**
 
 - 📝 You can check out some of my articles here [https://dev.to/martins_ngene](https://dev.to/martins_ngene)
 
