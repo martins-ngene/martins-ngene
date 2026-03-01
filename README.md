@@ -9,7 +9,7 @@
 
 - 💬 Looking to onboard an Engineer? **Let's chat.**
 
-- 📫 You can reach me here **martinsngene9@gmail.com**
+- 📫 You can reach me here **martinsngene.dev@gmail.com**
 
 <h3 align="left">Find me online:</h3>
 <p align="left">
