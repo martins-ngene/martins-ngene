@@ -1,21 +1,37 @@
-<h1>Hey 👋, I'm Martins Ngene</h1>
-<h3>A Software Engineer, I solve complex software engineering problems for the greater good</h3>
+# Hey 👋, I'm Martins Ngene
 
-<!-- - 🔭 I’m currently building on the Solana Blockchain [Solkens](https://github.com/martins-ngene/solkens) -->
+### Senior Full Stack Engineer | Distributed Systems & Applied AI[cite: 1]
 
-<!-- - 🌱 With a deep interest in Solana, I have decided to learn **Rust**
+I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces[cite: 1]. With over 5 years of engineering experience across remote teams, I specialize in translating complex business requirements into high-throughput, observable production platforms[cite: 1].
 
-- 📝 You can check out some of my articles here [https://dev.to/martins_ngene](https://dev.to/martins_ngene) -->
+---
 
-- 💬 Looking to onboard an Engineer? **Let's chat.**
+### 🛠 Tech Stack
 
-- 📫 You can reach me here **martinsngene.dev@gmail.com**
+* **Languages:** TypeScript, JavaScript, Python, Go, Ruby, SQL[cite: 1]
+* **Backend & Systems:** Node.js, Nest.js, FastAPI, Flask, GraphQL (Hasura), REST, gRPC, BullMQ[cite: 1]
+* **Frontend & Web:** React.js, Next.js, Vue.js, Tailwind CSS, Radix UI, Redux, Zustand[cite: 1]
+* **Databases & Cache:** PostgreSQL, MongoDB, Redis, Prisma[cite: 1]
+* **Cloud, Infra & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, GitLab CI/CD, Cloudflare[cite: 1]
+* **Observability & Reliability:** Prometheus, Grafana, OpenTelemetry, Sentry[cite: 1]
+* **Applied AI & Automation:** LLM Pipelines, OpenAI API, n8n, Event-Driven Automations[cite: 1]
 
-<h3 align="left">Find me online:</h3>
-<p align="left">
-<a href="https://dev.to/martins_ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="martins_ngene" height="30" width="40" /></a>
-<a href="https://twitter.com/martins_ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="martins_ngene" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martins-ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martins-ngene" height="30" width="40" /></a>
-<a href="https://medium.com/@martins_ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martins_ngene" height="30" width="40" /></a>
-</p>
+---
 
+### 🚀 What I Do
+
+* **Distributed Backend Architecture:** Design event-driven services, webhooks, and asynchronous workers capable of handling high transaction loads[cite: 1].
+* **Modern Frontend Systems:** Build scalable, accessible, and reusable UI component architectures with Next.js and React[cite: 1].
+* **Applied AI Engineering:** Implement practical LLM integrations and automated document processing pipelines to replace manual workflows[cite: 1].
+* **System Observability:** Implement tracing, structured logging, and metrics to maintain 99.9%+ operational reliability[cite: 1].
+
+---
+
+### 🌐 Connect With Me
+
+* **Website:** [iammartins.com](https://iammartins.com)[cite: 1]
+* **Email:** [contact@iammartins.com](mailto:contact@iammartins.com)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/martins-ngene](https://linkedin.com/in/martins-ngene)[cite: 1]
+* **Twitter / X:** [@martins_ngene](https://twitter.com/martins_ngene)
+* **Dev.to:** [martins_ngene](https://dev.to/martins_ngene)
+* **Medium:** [martins_ngene](https://medium.com/@iammartins.official)
