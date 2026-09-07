@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Martins Ngene</h1>
-<h3 align="center">Senior Full Stack Engineer | Distributed Systems & Applied AI</h3>
+<h3 align="center">Senior Full Stack Engineer | Distributed Systems | Automations & Applied AI</h3>
 
 <p align="center">
 I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces. With over 5 years of engineering experience across remote teams, I specialize in translating complex business requirements into high-throughput, observable production platforms.
@@ -73,6 +73,7 @@ I architect and build fault-tolerant backend architectures, event-driven integra
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM_Pipelines-000000?style=flat-square&logo=openaigym&logoColor=white" />
 
 ---
