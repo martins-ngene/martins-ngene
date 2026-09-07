@@ -1,68 +1,120 @@
-<div align="center">
-  <h1>Hey 👋, I'm Martins Ngene</h1>
-  <h3>Senior Full Stack Engineer | Distributed Systems, Applied AI & Automations</h3>
+<h1 align="center">Hey 👋, I'm Martins Ngene</h1>
+<h3 align="center">Senior Full Stack Engineer | Distributed Systems & Applied AI</h3>
 
-  <p>
-    <a href="https://iammartins.com"><img src="https://img.shields.io/badge/Website-iammartins.com-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-    <a href="https://linkedin.com/in/martins-ngene"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/martins_ngene"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="mailto:contact@iammartins.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <p>
-    <em>Architecting resilient event-driven architectures, self-healing workflow automations, and modern frontend platforms.</em>
-  </p>
-</div>
-
----
-
-### ⚡ About Me
-
-I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces[cite: 1]. With 5+ years of production experience across remote, distributed teams, I focus on system reliability, end-to-end workflow automation, and applied LLM platforms[cite: 1].
-
-* ⚙️ **Event-Driven Workflows:** Orchestrating resilient asynchronous pipelines, webhooks, and queue workers (BullMQ, n8n)[cite: 1].
-* 🤖 **Applied AI & ML Ops:** Engineering production LLM pipelines, OCR document parsing, and automated data validation[cite: 1].
-* 🌐 **Full-Stack Execution:** Designing type-safe APIs and responsive, accessible UI architectures[cite: 1].
-* 📈 **Observability First:** Embedding metrics, structured logging, and distributed tracing across all critical transaction paths[cite: 1].
-
----
-
-### 🛠 Tech Stack & Ecosystem
-
-#### **Languages & Runtimes**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,ruby,bash" alt="Languages" />
+<p align="center">
+I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces. With over 5 years of engineering experience across remote teams, I specialize in translating complex business requirements into high-throughput, observable production platforms.
 </p>
 
-#### **Backend, APIs & Architecture**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql" alt="Backend" />
-</p>
-
-#### **Automations & Applied AI**
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make.com-6D28D9?style=for-the-badge&logo=integromat&logoColor=white" alt="Make" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" />
-</p>
-
-#### **Frontend Engineering**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css" alt="Frontend" />
-</p>
-
-#### **Databases, Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,kubernetes,gitlab,cloudflare" alt="Cloud & Databases" />
-</p>
-
-#### **Observability & Reliability**
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" alt="Observability" />
+<p align="center">
+  <a href="https://iammartins.com"><img src="https://img.shields.io/badge/Portfolio-iammartins.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/martins-ngene"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/martins_ngene"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/martins_ngene"><img src="https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:contact@iammartins.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔄 Automations & Applied Systems in Action
+### 🛠 Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Backend & Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-D32F2F?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Frontend & Web**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
+</p>
+
+**Databases & Cache**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+**Cloud, Infra & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+**Observability & Reliability**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
+
+**Applied AI & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Pipelines-000000?style=flat-square&logo=openaigym&logoColor=white" />
+</p>
+
+---
+
+### 🚀 What I Do
+
+- 🔭 **Distributed Backend Architecture** — Designing event-driven services, webhooks, and asynchronous workers capable of handling high transaction loads.
+- 🎨 **Modern Frontend Systems** — Building scalable, accessible, and reusable UI component architectures with Next.js and React.
+- 🤖 **Applied AI Engineering** — Implementing practical LLM integrations and automated document-processing pipelines to replace manual workflows.
+- 📊 **System Observability** — Implementing tracing, structured logging, and metrics to maintain 99.9%+ operational reliability.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=martins-ngene&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ngene&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martins-ngene&theme=tokyonight&hide_border=true" />
+</p>
+
+> **Note:** Replace `martins-ngene` in the stats URLs above with your actual GitHub username if it differs, or these widgets won't render.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://iammartins.com"><img src="https://img.shields.io/badge/Website-iammartins.com-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:contact@iammartins.com"><img src="https://img.shields.io/badge/Email-contact@iammartins.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/martins-ngene"><img src="https://img.shields.io/badge/LinkedIn-martins--ngene-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/martins_ngene"><img src="https://img.shields.io/badge/Twitter-@martins__ngene-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/martins_ngene"><img src="https://img.shields.io/badge/Dev.to-martins__ngene-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>🌍 Remote, Nigeria (WAT / GMT+1) — Open to distributed, high-impact engineering roles.</i></p>
