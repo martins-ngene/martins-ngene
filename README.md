@@ -85,21 +85,6 @@ I architect and build fault-tolerant backend architectures, event-driven integra
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=martins-ngene&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ngene&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martins-ngene&theme=tokyonight&hide_border=true" />
-</p>
-
-> **Note:** Replace `martins-ngene` in the stats URLs above with your actual GitHub username if it differs, or these widgets won't render.
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
