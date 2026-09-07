@@ -17,7 +17,7 @@ I architect and build fault-tolerant backend architectures, event-driven integra
 
 ### 🛠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
