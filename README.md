@@ -1,37 +1,68 @@
-# Hey 👋, I'm Martins Ngene
+<div align="center">
+  <h1>Hey 👋, I'm Martins Ngene</h1>
+  <h3>Senior Full Stack Engineer | Distributed Systems, Applied AI & Automations</h3>
 
-### Senior Full Stack Engineer | Distributed Systems & Applied AI[cite: 1]
+  <p>
+    <a href="https://iammartins.com"><img src="https://img.shields.io/badge/Website-iammartins.com-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/martins-ngene"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/martins_ngene"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:contact@iammartins.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces[cite: 1]. With over 5 years of engineering experience across remote teams, I specialize in translating complex business requirements into high-throughput, observable production platforms[cite: 1].
-
----
-
-### 🛠 Tech Stack
-
-* **Languages:** TypeScript, JavaScript, Python, Go, Ruby, SQL[cite: 1]
-* **Backend & Systems:** Node.js, Nest.js, FastAPI, Flask, GraphQL (Hasura), REST, gRPC, BullMQ[cite: 1]
-* **Frontend & Web:** React.js, Next.js, Vue.js, Tailwind CSS, Radix UI, Redux, Zustand[cite: 1]
-* **Databases & Cache:** PostgreSQL, MongoDB, Redis, Prisma[cite: 1]
-* **Cloud, Infra & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, GitLab CI/CD, Cloudflare[cite: 1]
-* **Observability & Reliability:** Prometheus, Grafana, OpenTelemetry, Sentry[cite: 1]
-* **Applied AI & Automation:** LLM Pipelines, OpenAI API, n8n, Event-Driven Automations[cite: 1]
+  <p>
+    <em>Architecting resilient event-driven architectures, self-healing workflow automations, and modern frontend platforms.</em>
+  </p>
+</div>
 
 ---
 
-### 🚀 What I Do
+### ⚡ About Me
 
-* **Distributed Backend Architecture:** Design event-driven services, webhooks, and asynchronous workers capable of handling high transaction loads[cite: 1].
-* **Modern Frontend Systems:** Build scalable, accessible, and reusable UI component architectures with Next.js and React[cite: 1].
-* **Applied AI Engineering:** Implement practical LLM integrations and automated document processing pipelines to replace manual workflows[cite: 1].
-* **System Observability:** Implement tracing, structured logging, and metrics to maintain 99.9%+ operational reliability[cite: 1].
+I architect and build fault-tolerant backend architectures, event-driven integrations, and responsive user interfaces[cite: 1]. With 5+ years of production experience across remote, distributed teams, I focus on system reliability, end-to-end workflow automation, and applied LLM platforms[cite: 1].
+
+* ⚙️ **Event-Driven Workflows:** Orchestrating resilient asynchronous pipelines, webhooks, and queue workers (BullMQ, n8n)[cite: 1].
+* 🤖 **Applied AI & ML Ops:** Engineering production LLM pipelines, OCR document parsing, and automated data validation[cite: 1].
+* 🌐 **Full-Stack Execution:** Designing type-safe APIs and responsive, accessible UI architectures[cite: 1].
+* 📈 **Observability First:** Embedding metrics, structured logging, and distributed tracing across all critical transaction paths[cite: 1].
 
 ---
 
-### 🌐 Connect With Me
+### 🛠 Tech Stack & Ecosystem
 
-* **Website:** [iammartins.com](https://iammartins.com)[cite: 1]
-* **Email:** [contact@iammartins.com](mailto:contact@iammartins.com)[cite: 1]
-* **LinkedIn:** [linkedin.com/in/martins-ngene](https://linkedin.com/in/martins-ngene)[cite: 1]
-* **Twitter / X:** [@martins_ngene](https://twitter.com/martins_ngene)
-* **Dev.to:** [martins_ngene](https://dev.to/martins_ngene)
-* **Medium:** [martins_ngene](https://medium.com/@iammartins.official)
+#### **Languages & Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,ruby,bash" alt="Languages" />
+</p>
+
+#### **Backend, APIs & Architecture**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql" alt="Backend" />
+</p>
+
+#### **Automations & Applied AI**
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make.com-6D28D9?style=for-the-badge&logo=integromat&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" />
+</p>
+
+#### **Frontend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css" alt="Frontend" />
+</p>
+
+#### **Databases, Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,kubernetes,gitlab,cloudflare" alt="Cloud & Databases" />
+</p>
+
+#### **Observability & Reliability**
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" alt="Observability" />
+</p>
+
+---
+
+### 🔄 Automations & Applied Systems in Action
